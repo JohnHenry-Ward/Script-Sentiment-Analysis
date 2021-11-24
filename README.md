@@ -8,4 +8,15 @@ If you would like to see my presentation, it can be found here: [link](Presentat
 
 ## Here are the 6 graphs I used to demonstarte this project
 
-![Iron Man 1](graphs/IronMan.png)
+![Avengers: Infinity War](graphs/Avengers3.png)
+
+![Finding Nemo](graphs/FindingNemo.png)
+
+![Psycho](graphs/Psycho.png)
+
+![Jurassic Park](graphs/JurassicPark.png)
+
+![Wizard of Oz](graphs/WizardOfOz.png)
+
+![Iron Man](graphs/IronMan.png)
+
