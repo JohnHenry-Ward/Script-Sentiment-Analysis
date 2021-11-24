@@ -12,7 +12,7 @@ If you would like to see my presentation, it can be found here: [link](Presentat
 
 ![Finding Nemo](graphs/FindingNemo.png)
 
-![Psycho](graphs/Psycho.png)
+![Psycho](graphs/Pyscho.png)
 
 ![Jurassic Park](graphs/JurassicPark.png)
 
