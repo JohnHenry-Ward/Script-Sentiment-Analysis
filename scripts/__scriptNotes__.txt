@@ -1,0 +1,34 @@
+Initially the project was going to focus on Marvel scripts which is why there are so many of them here, but as the project evolved I only ended up using 2 Marvel scripts, and 3 other non-Marvel movie scripts
+
+True Scripts with Full Action Descriptions:
+-Jurrasic Park (used in project)
+-Psycho (used in project)
+-The Wizard of Oz (used in project)
+-Avengers 1
+-Avengers 4
+-Black Panther
+-Doctor Strange
+-Guardians of the Galaxy 1
+-Guardians of the Galaxy 2
+-The Incredible Hulk
+-Iron Man 2
+-Spider-Man 1
+-Thor 1
+-Thor 3
+
+Dialouge with Less Decsriptive Action Description:
+-Ant-Man 1
+-Avengers 2
+-Avengers 3 (used in project)
+-Captain America 1
+-Captain America 2
+-Captain America 3
+-Captain Marvel
+-Iron Man 1 (used in project)
+-Iron Man 3
+-Thor 2
+
+Dialouge Only:
+-Finding Nemo (used in project)
+-Ant-Man 2
+-Spider-Man 2
